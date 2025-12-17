@@ -1,8 +1,3 @@
-# SM4-Lite: High-Performance SM4 Implementation in Pure C
-
-![Standard](https://img.shields.io/badge/GM%2FT-0002--2012-compliant-blue)
-![Language](https://img.shields.io/badge/Language-C99-orange)
-
 ## 📖 简介 (Introduction)
 这是一个轻量级、高性能且**零依赖**的国密 SM4 分组密码算法库（GM/T 0002-2012）。
 
